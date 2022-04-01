@@ -19,13 +19,6 @@
   font-family: Poppins-Bold;
   src: url('../fonts/poppins/Poppins-Bold.ttf'); 
 }
-
-
-
-
-/*//////////////////////////////////////////////////////////////////
-[ RESTYLE TAG ]*/
-
 * {
 	margin: 0px; 
 	padding: 0px; 
@@ -118,13 +111,6 @@ button:hover {
 iframe {
 	border: none !important;
 }
-
-
-
-
-
-/*//////////////////////////////////////////////////////////////////
-[ Contact 2 ]*/
 .bg-contact3 {
   width: 100%;  
   background-repeat: no-repeat;
@@ -254,7 +240,7 @@ textarea.input3 {
 /*------------------------------------------------------------------
 [  ]*/
 .container-contact3-form-btn {
-  padding-top: 23px;
+  padding-top: 10px;
 }
 
 .contact3-form-btn {
@@ -263,11 +249,6 @@ textarea.input3 {
   color: #555555;
   line-height: 1.2;
   text-transform: uppercase;
-
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-box;
-  display: -ms-flexbox;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -592,6 +573,12 @@ textarea.input3 {
   font-size: 15px;
   color: #555555;
   line-height: 1.2;
+}
+.redirect{
+  margin-top: 30px;
+}
+.redirect a{
+  color: white;
 }
 
 
